@@ -29,17 +29,19 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-        - 7 years of working experience in Software testing.
-        - 1-year experience in Test Automation (Prog. lang: Java/Typescript).
-        - Understanding of OOP.
-        - Have experience in creation pipelines for deploying (Azure).
-        - Have experience in TypeScript (automation tests).
-        - Have experience with hardware testing.
+    summary:
+      '<div><ul>
+              <li>7 years of working experience in Software testing.</li>
+              <li>1-year experience in Test Automation (Prog. lang: Java/Typescript).</li>
+              <li>Understanding of OOP.</li>
+              <li>Have experience in creation pipelines for deploying (Azure).</li>
+              <li>Have experience in TypeScript (automation tests).</li>
+              <li>Have experience with hardware testing.</li>
+            </ul></div>
 
-      Several years ago I tried to learn the Java language for later use in Automation testing and I've got it.
-      After my first Automation testing courses, I couldn't find projects to realize obtained the knowledge gained.
-      I've created some small projects with Automation tests to avoiding my manual routines.
+      <div>Several years ago I tried to learn the Java language for later use in Automation testing.<br><br>
+      After my first Automation testing courses, I could not find projects to realize obtained the knowledge gained.<br><br>
+      I have created some small projects with Automation tests to avoiding my manual routines.</div>'
 
 education:
     - degree: Сomputer systems and networks
